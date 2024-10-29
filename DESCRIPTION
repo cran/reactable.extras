@@ -1,7 +1,7 @@
 Type: Package
 Package: reactable.extras
 Title: Extra Features for 'reactable' Package
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: 
   c(
     person("Recle", "Vibal", role = c("aut", "cre"), email = "opensource+recle@appsilon.com"),
@@ -27,7 +27,7 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-11-23 08:16:47 UTC; kuba
+Packaged: 2024-10-29 14:25:23 UTC; kuba
 Author: Recle Vibal [aut, cre],
   Ivan Hrychaniuk [aut],
   Andres Quintero [aut],
@@ -36,4 +36,4 @@ Author: Recle Vibal [aut, cre],
   Appsilon Sp. z o.o. [cph]
 Maintainer: Recle Vibal <opensource+recle@appsilon.com>
 Repository: CRAN
-Date/Publication: 2023-11-23 12:50:02 UTC
+Date/Publication: 2024-10-29 14:50:02 UTC
